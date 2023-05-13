@@ -31,7 +31,7 @@ Start the application.
 
 
 ### Open your web browser and go to http://localhost:8080 to access the application.
-#API Documentation
+# API Documentation
 The application provides the following REST API endpoints:
 
 1. GET /api/fabrications/ - retrieves List of fabrication Item
