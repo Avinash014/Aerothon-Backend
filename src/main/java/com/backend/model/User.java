@@ -1,4 +1,4 @@
-package com.hackathon.model;
+package com.backend.model;
 
 
 import jakarta.persistence.*;

@@ -1,4 +1,4 @@
-package com.hackathon.config;
+package com.backend.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;
